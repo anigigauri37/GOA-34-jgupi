@@ -1,5 +1,4 @@
-sentence = "My Name Is andria, and I am JR.Programmist."
-
+sentence = "My Name Is ani, and I am JR.Programmist."
 occurs = sentence.count("a",)
 print (occurs)
 

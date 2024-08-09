@@ -11,16 +11,10 @@ num1 = 5
 num2 = 7
 print(number(num1,num2))
 
-
-
-
-
 #task 2
 def number(num):
     return sum(num)
 print(number([2,3,4,5,6,1]))
-
-
 
 
 #task 3
@@ -137,14 +131,9 @@ print(num(2))
 
 
 
-
-
 #task 14
 word = "erekle"
 print(word.capitalize())
-
-
-
 
 
 #task 15
@@ -158,10 +147,6 @@ def num1(numbers10):
     return lists
 
 print(num1([2,3,5,6,7]))
-
-
-
-
 
 
 #task 16
@@ -186,10 +171,6 @@ def string1(word1):
     return odd,even
 
 print(string1(["erekle", "leila", "gio"]))
-
-
-
-
 
 
 

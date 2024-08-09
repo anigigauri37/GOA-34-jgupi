@@ -1,5 +1,5 @@
 
-Famly_members = ["Andria", "Giorgi", "Niko", "Ksenia"]
+Famly_members = ["giga", "Giorgi", "luka", "Keto"]
 
 
 for i in range(len(Famly_members)):

@@ -1,15 +1,12 @@
 
-name = ["andria", "giorgi", "andria", "luka"]
+name = ["ani", "giorgi", "anno", "luka"]
 
 
 for name in name:
     print (input("Pleace Enter Your Name"))
 
 
-
-
-
-if name == "andria":
+if name == "ani":
     print("Welcome Admin")
 
 else:
