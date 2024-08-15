@@ -32,3 +32,8 @@ print(age)
 my_age = 14
 mather_age = 33
 print(mather_age + 10)
+
+
+
+
+
