@@ -1,5 +1,3 @@
-
-
 #task 1
 def number(num1,num2):
     number = num1 + num2

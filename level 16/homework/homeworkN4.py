@@ -6,6 +6,3 @@ email = input("What Is Ur Email: ")
 all_thogether = [name, surname, age, location, email]
 
 print(all_thogether)
-
-
-

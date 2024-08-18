@@ -1,4 +1,3 @@
-
 start = int(input("Enter start number: "))
 end = int(input("Enter end number: "))
 
