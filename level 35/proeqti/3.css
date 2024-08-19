@@ -1,0 +1,10 @@
+p {
+    display: inline;
+    margin-top: 100px;
+    padding: 20px;
+    font-size: medium;
+}
+
+.img_deg{float: left;}
+
+.pos_cen{position: absolute; left: 30%}

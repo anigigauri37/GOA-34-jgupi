@@ -27,7 +27,7 @@
 }
 
 .fp{
-    color: hsl(224, 96%, 37%);
+    color: hsl(0, 0%, 0%);
     font-size: 12px;
     display: flex;
     justify-content: right;
@@ -38,6 +38,6 @@
     width: 230px;
     height: 40px;
     border-radius: 10px;
-    border-color: #2962FF;
-    background-color: #2962FF;  
+    border-color: #000000;
+    background-color: #708dd1;  
 }
