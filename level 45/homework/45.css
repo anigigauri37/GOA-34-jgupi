@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.parent{
+    display: flex;
+    border: 5px solid rgb(0, 0, 0);
+
+}
+  
+.child{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border: 5px solid rgb(0, 0, 0);
+}
+
