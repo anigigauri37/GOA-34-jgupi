@@ -4,7 +4,13 @@ h2 {
     font-weight: weight;
     font-style: normal;
     text-align: center;
-    color: #4b2c39;
-    text-shadow: 3px 3px 3px rgb(102, 7, 7);
+    color: #8a6d52;
+    text-shadow: 3px 3px 3px rgb(25, 19, 19);
     font-size: xx-large;
+}
+
+body{
+    background-image: url(https://avatars.mds.yandex.net/get-altay/11622009/2a0000018f347349b7612c9d59f159059d3b/orig); 
+    background-repeat: no-repeat;
+    background-size: cover;
 }
