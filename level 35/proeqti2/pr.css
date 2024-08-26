@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: century;
+}
+
+main{
+    background-image: linear-gradient(to top, rgba(172, 43, 43, 0.5)50%,rgba(172, 43, 43, 0.5)50% url(image.png));
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    min-height: 100px;
+
+}
+
+.navber{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 250vh;
+    height: 50px;
+
+}
+
+ul li{
+    list-style: no;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: rgb(133, 108, 108);
+    
+} 
+
+.sub-menu{
+    display: none;
+    top: 6%;
+    position: relative;
+
+}
+
+.sub-menu ul{
+    position: absolute;
+}
+
+.main ul li:hover .sub-menu{
+    display: block;
+    position: absolute;
+    background-color: blue;
+    margin-top: 12px;
+    margin-left: -8px;
+    
+}
