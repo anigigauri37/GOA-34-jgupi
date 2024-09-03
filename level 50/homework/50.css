@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgb(48, 48, 63);
+}
+
+img{
+    width: 300px;
+    height: 300px;
+
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+        
+}
+
+main{
+    display: flex;
+    background-color: rgb(34, 39, 80);
+    color: rgb(255, 255, 255);
+    width: 350px;
+    box-shadow: rgb(179, 163, 163);
+    overflow: hidden;
+    height: 80vh
+}
