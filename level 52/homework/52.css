@@ -1,0 +1,32 @@
+
+.img{
+    background-color: aqua;
+    width: 200%;
+    height: 200px;
+    left: 50px;
+    position: absolute;
+    top: 200px;
+
+    transition:  10s;
+}
+
+.img:hover{
+    transform: translate(50px, 50px);
+    transform: rotate(50deg);
+    transform: scale(2);
+
+    
+}
+
+/* 
+
+
+translate - იღებს 2 მნიშვნელობას : x,y შესაბამისად უცვლის პოზიციას
+scale - უცვლის ელემენტს ზომას მნიშვნელობის შესაბამისად
+rotate - აბბრუნებს ელემენტს გადაცემული ერთეულით: გრადუსებით
+Degrees - გრადუსები
+
+
+*/
+
+
