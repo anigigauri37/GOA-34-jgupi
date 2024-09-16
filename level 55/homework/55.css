@@ -1,0 +1,57 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(228, 45%, 44%);
+
+
+}
+
+section{
+    font-size: 30px;
+    color: white;
+    top: 100px;
+    padding: 10px;
+    flex-direction: column;
+}
+
+main{
+    display: flex;
+    background-color: hsl(228, 45%, 44%);
+    width: 400px;
+    box-shadow: rgb(179, 163, 163);
+    overflow: hidden;
+    height: 90vh;
+}
+
+.img{
+    width: 500px;
+    margin-left: 60px;
+}
+
+#child{
+    margin-top: 50px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    transition: transform 0.5s ease-in-out;
+
+}
+
+#child:hover{
+    transform: scale(1.1);
+}
+
+#text{
+    font-size: 25px;
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+
+}
+
+#item{
+    font-size: 25px;
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+
+}
