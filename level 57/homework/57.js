@@ -143,3 +143,144 @@ let j = 55
 let str = c !== j
 console.log(str)
 
+// 26
+
+const results = 10 > 10
+console.log(results)
+
+// 27
+
+const apple = 'apple'
+const banana = 'banana'
+const food = banana == apple
+console.log(food)
+
+// 28
+
+const True = 'true'
+const False = 'false'
+const items = true !== false
+console.log(items)
+
+
+// 29
+
+const res = 10 > 3
+console.log(res)
+
+// 30
+
+const strn = 8 < 12
+console.log(strn)
+
+// 31
+
+const myNumber = 45
+console.log(typeof myNumber)
+
+
+// 32
+
+const string = 100 / 4;
+console.log(typeof string)
+
+
+// 33
+
+const typeofs = 5 + 7
+console.log(typeof typeofs)
+
+// 34
+
+let largeNumber = 1000000
+console.log(largeNumber)
+
+// 35
+
+let num3 = 20
+let num4 = 5
+let num5 = num3 + num4
+console.log(num5)
+
+// 36
+
+const logs = 50
+const k = 30
+console.log(logs - k)
+
+// 37
+
+const q = 8
+const f = 6
+console.log(q / f)
+
+// 38
+
+let totalAmount = 500
+console.log(totalAmount)
+
+// 39
+
+const t = 13
+const u = 5
+console.log(t / u)
+
+// 40
+
+let type = 9 / 3
+console.log(type)
+
+// 41
+
+let isSunny = 'true'
+console.log(isSunny)
+
+// 42
+
+let isRaining = false
+let are = !isRaining
+console.log(are)
+
+// 43
+
+let hasDriverLicense = 'hasDriverLicense'
+let hasCar = 'hasCar'
+console.log(typeof hasDriverLicense)
+console.log(typeof hasCar)
+
+// 44
+
+let isOpen = 'false'
+console.log(isOpen)
+
+// 45
+
+let isopen = 5 > 3
+console.log(typeof isopen)
+
+// 46
+
+let isActive = 'true'
+console.log(typeof isActive)
+
+// 47
+
+let fAlse = 'false'
+let tRUe = 'true'
+let falt = false !== true
+console.log(falt)
+
+// 48
+
+let isCompleted = 'false'
+console.log(isCompleted)
+
+// 49
+
+let isA = 'false'
+console.log(typeof isA)
+
+// 50
+
+let isLoggedIn = 'true'
+console.log(isLoggedIn)
