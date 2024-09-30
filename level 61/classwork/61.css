@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,700;1,9..144,700&display=swap');
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 100vh;
+
+    
+}
+
+main{
+    display: flex;
+    width: 200px;
+    height: 45vh;
+    background-color: rgb(230, 194, 205);
+}
+
+button{
+    border-radius: 15px;
+    width: 100px;
+    height: 5vh;
+    background-color: hsl(39, 100%, 71%);
+    display: flex;
+    justify-content: center;
+    color: hsl(256, 67%, 59%);
+    font-size: 15px;
+    padding: 5px;
+    text-decoration: none;
+    font-family: Montserrat;
+
+}
+
+h1{
+    font-size: 30px;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

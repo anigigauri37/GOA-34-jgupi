@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,700;1,9..144,700&display=swap');
+
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(39, 100%, 71%);
+    font-family:  monospace;
+}
+
+main{
+    display: flex;
+    background-color: hsl(39, 100%, 71%);
+    width: 210px;
+    height: 60vh;
+    border-radius: 2vh;
+
+}
+
+img{
+    width: 210px;
+    height: 30vh;
+  
+}
+
+h1{
+    font-size: 30px;
+}
