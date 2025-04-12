@@ -1,0 +1,62 @@
+/* h2 {
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    color: #8a6d52;
+    text-shadow: 3px 3px 3px rgb(25, 19, 19);
+    font-size: xx-large;
+}
+
+body{
+    background-image: url(https://avatars.mds.yandex.net/get-altay/11622009/2a0000018f347349b7612c9d59f159059d3b/orig); 
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+/* 1 */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(110, 113, 116);
+    line-height: 1.6;
+}
+
+h1 {
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.history-description {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(216, 215, 215);
+    border-radius: 10px;
+    border: 4px solid black;
+    color: #444b53;
+    text-align: justify; 
+}
+
+.image-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.image-container img {
+    border: 4px solid #444b53;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .image-container img {
+        width: 90%;
+        height: auto;
+    }
+}

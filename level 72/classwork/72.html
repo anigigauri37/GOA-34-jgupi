@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <script>
+    const date = new Date();
+    console.log(date.toDateString())
+
+    const time = new Date();
+    console.log(time.toISOString())
+
+    const ani = new Date();
+    console.log(ani.toUTCString())
+
+
+    const year = new Date();
+
+    year.setFullYear(2010);
+    year.setMonth(6);
+    year.setDate(26);
+
+    console.log(year.getFullYear()) // wlebi
+    console.log(year.getMonth())   // tveebi
+    console.log(year.getHours())   // saatebi
+    console.log(year.getSeconds()) // wamebi
+    console.log(year.getMinutes()) // wutebi
+    
+
+    </script>
+
+    <script src="72.js"></script>
+</body>
+</html>

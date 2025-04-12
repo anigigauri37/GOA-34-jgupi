@@ -1,0 +1,97 @@
+/* .parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.texth1{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.input1{
+    height: 30px;
+    width: 230px;
+    border-radius: 8px;
+    background-color: #E8F0FE;
+}
+
+.input2{
+    height: 30px;
+    width: 230px;
+    border-radius: 8px;
+    background-color: #E8F0FE;
+}
+
+.fp{
+    color: hsl(0, 0%, 0%);
+    font-size: 12px;
+    display: flex;
+    justify-content: right;
+}
+
+
+.button1{
+    width: 230px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: #000000;
+    background-color: #708dd1;  
+} */
+/* 1 */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    padding: 40px 0;
+    margin-bottom: 20px;
+}
+
+#home {
+    background-color: #69b0cc;
+    color: white;
+    text-align: center;
+}
+
+#about {
+    background-color: #f1f1f1;
+    color: #333;
+}
+
+#contact {
+    background-color: #fff;
+    color: #333;
+}
+
+.go-button {
+    background-color: #205580;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.go-button:hover {
+    background-color: #072038;
+}

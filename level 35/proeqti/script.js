@@ -1,0 +1,1 @@
+// Here you could add functionality, like opening/closing sections dynamically or submitting contact forms.
